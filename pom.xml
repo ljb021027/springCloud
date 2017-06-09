@@ -7,5 +7,7 @@
   <packaging>pom</packaging>
   <modules>
     <module>spring-boot</module>
+    <module>spring-cloud-provider</module>
+    <module>spring-cloud-zone</module>
   </modules>
 </project>
