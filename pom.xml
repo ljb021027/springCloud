@@ -9,5 +9,7 @@
     <module>spring-boot</module>
     <module>spring-cloud-provider</module>
     <module>spring-cloud-zone</module>
+    <module>spring-cloud-consumer</module>
+    <module>spring-cloud-feign</module>
   </modules>
 </project>
