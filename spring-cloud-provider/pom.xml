@@ -7,6 +7,8 @@
   </parent>
   <artifactId>spring-cloud-provider</artifactId>
   
+  <!-- 服务提供方 -->
+  
   <dependencies>
     <dependency>
         <groupId>org.springframework.boot</groupId>

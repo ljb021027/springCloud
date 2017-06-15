@@ -11,5 +11,6 @@
     <module>spring-cloud-zone</module>
     <module>spring-cloud-consumer</module>
     <module>spring-cloud-feign</module>
+    <module>spring-cloud-config</module>
   </modules>
 </project>
